@@ -18,7 +18,7 @@ export const data = [
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/52QK5LTk/Capture-d-cran-du-2024-01-02-16-54-26.png',
+    img: 'https://i.postimg.cc/YjBKtvFw/Capture-d-cran-du-2024-01-04-23-01-48.png',
     title: "E-commerce",
     desc: "",
     link: "",

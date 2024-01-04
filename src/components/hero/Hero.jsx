@@ -51,7 +51,7 @@ const Hero = () => {
               href=""
               className=" bg-black text-[1rem] text-white px-10 py-2 sm:px-8 rounded-lg font-bold  hover:text-yellow-500"
             >
-              <span> Embauchez moi</span>
+              <span> HIRE ME </span>
             </a>
             <a
               href={resumePDF}
