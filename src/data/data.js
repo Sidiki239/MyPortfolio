@@ -13,7 +13,9 @@ export const data = [
     id: 2,
     img: 'https://i.postimg.cc/gkVMmYFR/Capture-d-cran-du-2024-05-02-19-19-34.png',
     title: "Transport Website",
-    link: "https://demtransport.netlify.app/",
+    desc:"",
+    //link: "https://demtransport.netlify.app/",
+    link: "",
     git: "",
   },
   {
@@ -37,7 +39,8 @@ export const data = [
     img: 'https://i.postimg.cc/FswN0Hdq/Capture-d-cran-du-2024-05-02-19-07-25.png',
     title: "Restaurant website",
     desc: "",
-    link: "https://first-restaurant-website-nine.vercel.app/",
+    link: "",
+   // link: "https://first-restaurant-website-nine.vercel.app/",
     git: "",
   }
   
