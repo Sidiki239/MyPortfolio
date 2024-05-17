@@ -43,7 +43,9 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              A la recherche de stage de projet de fin d'études pour une durée minimum de 3 mois.
+            Futur Ingénieur d’Etat en Génie Informatique
+            option Logiciel à la recherche d’un emploi dans
+            le développement Web/Mobile.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">

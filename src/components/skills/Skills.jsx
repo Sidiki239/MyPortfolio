@@ -43,13 +43,9 @@ const Skills = ({ darkMode }) => {
               className="progress flex items-center h-[100%] justify-end md:justify-center"
             >
               <div className=" flex flex-col gap-6  w-3/4  my-5 md:w-[90%]">
-                <ProgressBar  name={"HTML , CSS , Javascript  "} value={90} />
+                <ProgressBar  name={"HTML , CSS , Javascript ,TypeScript "} value={90} />
                 
-                <ProgressBar
-                 
-                  name={" VueJS , AngularJS , TypeScript , PHP"}
-                  value={60}
-                />
+               
                 <ProgressBar
                  
                   name={"NextJS , ReactJS , React Native"}
